@@ -64,7 +64,7 @@
   text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
 }
 
-.team-grid .item:hover .cover, .item:active {
+.team-grid .item:hover .cover, .team-grid .item:hover .cover {
   opacity: 1;
 }
 
